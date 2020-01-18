@@ -1,0 +1,95 @@
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'lvrp.donate' doesn't exist (Query: "DELETE FROM `donate` WHERE `status`='0' AND `dateDelete` > 1579296492")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTowers] - (error #1146) Table 'lvrp.towers' doesn't exist (Query: "SELECT * FROM `towers`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicGarage] - (error #1146) Table 'lvrp.garage' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = garage.owner) as ownername FROM `garage`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicLabels] - (error #1146) Table 'lvrp.labels' doesn't exist (Query: "SELECT * FROM `labels`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicEntrance] - (error #1146) Table 'lvrp.entrance' doesn't exist (Query: "SELECT * FROM `entrance`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicGates] - (error #1146) Table 'lvrp.gates' doesn't exist (Query: "SELECT * FROM `gates`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicATMS] - (error #1146) Table 'lvrp.atms' doesn't exist (Query: "SELECT * FROM `atms`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTeles] - (error #1146) Table 'lvrp.ateles' doesn't exist (Query: "SELECT * FROM `ateles`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicObjects] - (error #1146) Table 'lvrp.objects' doesn't exist (Query: "SELECT * FROM `objects`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicCCTV] - (error #1146) Table 'lvrp.cctvs' doesn't exist (Query: "SELECT * FROM `cctvs`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicCars] - (error #1146) Table 'lvrp.cars' doesn't exist (Query: "SELECT * FROM `cars` WHERE `owner` = '0'")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicHouses] - (error #1146) Table 'lvrp.houses' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = houses.owner) as ownername, (SELECT last_login FROM users WHERE id = houses.owner) as lastlogin FROM `houses`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicApartment] - (error #1146) Table 'lvrp.apartment' doesn't exist (Query: "SELECT * FROM `apartment`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicBiz] - (error #1146) Table 'lvrp.business' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = business.owner) as ownername, (SELECT last_login FROM users WHERE id = business.owner) as lastlogin FROM `business`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicStands] - (error #1146) Table 'lvrp.foodstand' doesn't exist (Query: "SELECT * FROM `foodstand`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicAPB] - (error #1146) Table 'lvrp.apbs' doesn't exist (Query: "SELECT * FROM `apbs`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicFactions] - (error #1146) Table 'lvrp.factions' doesn't exist (Query: "SELECT * FROM `factions` ORDER BY `factionid`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicJobs] - (error #1146) Table 'lvrp.jobs' doesn't exist (Query: "SELECT * FROM `jobs` ORDER BY `jobid`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicRadios] - (error #1146) Table 'lvrp.radios' doesn't exist (Query: "SELECT * FROM `radios`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPlants] - (error #1146) Table 'lvrp.plants' doesn't exist (Query: "SELECT * FROM `plants`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTruckCargo] - (error #1146) Table 'lvrp.truck_cargo' doesn't exist (Query: "SELECT * FROM `truck_cargo`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPayphone] - (error #1146) Table 'lvrp.payphones' doesn't exist (Query: "SELECT * FROM `payphones`")
+[23:28:12 01/17/20] [ERROR] CMySQLQuery::Execute[OnLogsExitInsert] - (error #1146) Table 'lvrp.logs_exit' doesn't exist (Query: "INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:28:12')")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'lvrp.donate' doesn't exist (Query: "DELETE FROM `donate` WHERE `status`='0' AND `dateDelete` > 1579296707")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTowers] - (error #1146) Table 'lvrp.towers' doesn't exist (Query: "SELECT * FROM `towers`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicGarage] - (error #1146) Table 'lvrp.garage' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = garage.owner) as ownername FROM `garage`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicLabels] - (error #1146) Table 'lvrp.labels' doesn't exist (Query: "SELECT * FROM `labels`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicEntrance] - (error #1146) Table 'lvrp.entrance' doesn't exist (Query: "SELECT * FROM `entrance`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicGates] - (error #1146) Table 'lvrp.gates' doesn't exist (Query: "SELECT * FROM `gates`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicATMS] - (error #1146) Table 'lvrp.atms' doesn't exist (Query: "SELECT * FROM `atms`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTeles] - (error #1146) Table 'lvrp.ateles' doesn't exist (Query: "SELECT * FROM `ateles`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicObjects] - (error #1146) Table 'lvrp.objects' doesn't exist (Query: "SELECT * FROM `objects`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicCCTV] - (error #1146) Table 'lvrp.cctvs' doesn't exist (Query: "SELECT * FROM `cctvs`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicCars] - (error #1146) Table 'lvrp.cars' doesn't exist (Query: "SELECT * FROM `cars` WHERE `owner` = '0'")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicHouses] - (error #1146) Table 'lvrp.houses' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = houses.owner) as ownername, (SELECT last_login FROM users WHERE id = houses.owner) as lastlogin FROM `houses`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicApartment] - (error #1146) Table 'lvrp.apartment' doesn't exist (Query: "SELECT * FROM `apartment`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicBiz] - (error #1146) Table 'lvrp.business' doesn't exist (Query: "SELECT *, (SELECT name FROM users WHERE id = business.owner) as ownername, (SELECT last_login FROM users WHERE id = business.owner) as lastlogin FROM `business`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicStands] - (error #1146) Table 'lvrp.foodstand' doesn't exist (Query: "SELECT * FROM `foodstand`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicAPB] - (error #1146) Table 'lvrp.apbs' doesn't exist (Query: "SELECT * FROM `apbs`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicFactions] - (error #1146) Table 'lvrp.factions' doesn't exist (Query: "SELECT * FROM `factions` ORDER BY `factionid`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicJobs] - (error #1146) Table 'lvrp.jobs' doesn't exist (Query: "SELECT * FROM `jobs` ORDER BY `jobid`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicRadios] - (error #1146) Table 'lvrp.radios' doesn't exist (Query: "SELECT * FROM `radios`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPlants] - (error #1146) Table 'lvrp.plants' doesn't exist (Query: "SELECT * FROM `plants`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicTruckCargo] - (error #1146) Table 'lvrp.truck_cargo' doesn't exist (Query: "SELECT * FROM `truck_cargo`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPayphone] - (error #1146) Table 'lvrp.payphones' doesn't exist (Query: "SELECT * FROM `payphones`")
+[23:31:47 01/17/20] [ERROR] CMySQLQuery::Execute[OnLogsExitInsert] - (error #1146) Table 'lvrp.logs_exit' doesn't exist (Query: "INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:31:47')")
+[23:33:00 01/17/20] [ERROR] CMySQLQuery::Execute[OnAccountCheck] - (error #1146) Table 'lvrp.accounts' doesn't exist (Query: "SELECT accounts.login, accounts.id, accounts.last_game_ip, accounts.google_auth FROM `accounts`, `users` WHERE (accounts.login = 'AndreiAdv' OR users.name = 'AndreiAdv') AND accounts.id = users.accountid")
+[23:36:24 01/17/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPayphone] - (error #1146) Table 'lvrp.payphones' doesn't exist (Query: "SELECT * FROM `payphones`")
+[23:36:24 01/17/20] [ERROR] CMySQLQuery::Execute[OnLogsExitInsert] - (error #1364) Field 'reason_0' doesn't have a default value (Query: "INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:36:24')")
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_int - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_int - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[23:36:24 01/17/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPayphone] - (error #1146) Table 'lvrp.payphones' doesn't exist (Query: "SELECT * FROM `payphones`")
+[05:01:18 01/18/20] [ERROR] CMySQLQuery::Execute[OnLogsExitInsert] - (error #1364) Field 'reason_0' doesn't have a default value (Query: "INSERT INTO `logs_exit` (`date`) VALUES ('18/01/2020, 05:01:18')")
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_int - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_int - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[05:01:18 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] CMySQLQuery::Execute[LoadDynamicPayphone] - (error #1146) Table 'lvrp.payphones' doesn't exist (Query: "SELECT * FROM `payphones`")
+[15:57:16 01/18/20] [ERROR] CMySQLQuery::Execute[OnLogsExitInsert] - (error #1364) Field 'reason_0' doesn't have a default value (Query: "INSERT INTO `logs_exit` (`date`) VALUES ('18/01/2020, 15:57:16')")
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_int - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_int - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype
+[15:57:16 01/18/20] [ERROR] cache_get_field_content_float - invalid datatype

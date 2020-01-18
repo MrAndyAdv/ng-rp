@@ -1,0 +1,833 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:40:50] 
+[22:40:50] Server Plugins
+[22:40:50] --------------
+[22:40:50]  Loaded 0 plugins.
+
+[22:40:50] 
+[22:40:50] Filterscripts
+[22:40:50] ---------------
+[22:40:50]   Loading filterscript 'base.amx'...
+[22:40:50] 
+--Base FS loaded.
+
+[22:40:50]   Loading filterscript 'gl_actions.amx'...
+[22:40:50]   Loading filterscript 'gl_property.amx'...
+[22:40:50] 
+-----------------------------------
+[22:40:50] Grand Larceny Property Filterscript		
+[22:40:50] -----------------------------------
+
+[22:40:50]   Loading filterscript 'gl_realtime.amx'...
+[22:40:50]   Loaded 4 filterscripts.
+
+[22:40:50] Loaded 3 vehicles from: vehicles/trains.txt
+[22:40:50] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:40:50] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:40:50] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:40:50] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:40:50] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:40:50] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:40:50] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:40:50] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:40:50] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:40:50] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:40:50] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:40:50] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:40:50] Loaded 168 vehicles from: vehicles/bone.txt
+[22:40:50] Loaded 61 vehicles from: vehicles/flint.txt
+[22:40:50] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:40:50] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:40:50] Total vehicles from files: 1781
+[22:40:50] Reading File: blank
+[22:40:50] Reading File: properties/houses.txt
+[22:40:50] Reading File: properties/businesses.txt
+[22:40:50] Reading File: properties/banks.txt
+[22:40:50] Reading File: properties/police.txt
+[22:40:50] 
+---------------------------------------
+[22:40:50] Running Grand Larceny - by the SA-MP team
+
+[22:40:50] ---------------------------------------
+
+[22:40:50] Number of vehicle models: 173
+[22:41:04] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:42:40] 
+[22:42:40] Server Plugins
+[22:42:40] --------------
+[22:42:40]  Loaded 0 plugins.
+
+[22:42:40] 
+[22:42:40] Filterscripts
+[22:42:40] ---------------
+[22:42:40]   Loading filterscript 'base.amx'...
+[22:42:40] 
+--Base FS loaded.
+
+[22:42:40]   Loading filterscript 'gl_actions.amx'...
+[22:42:40]   Loading filterscript 'gl_property.amx'...
+[22:42:40] 
+-----------------------------------
+[22:42:40] Grand Larceny Property Filterscript		
+[22:42:40] -----------------------------------
+
+[22:42:40]   Loading filterscript 'gl_realtime.amx'...
+[22:42:40]   Loaded 4 filterscripts.
+
+[22:42:40] Loaded 3 vehicles from: vehicles/trains.txt
+[22:42:40] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:42:40] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:42:40] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:42:40] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:42:40] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:42:40] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:42:40] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:42:40] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:42:40] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:42:40] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:42:40] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:42:40] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:42:40] Loaded 168 vehicles from: vehicles/bone.txt
+[22:42:40] Loaded 61 vehicles from: vehicles/flint.txt
+[22:42:40] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:42:40] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:42:40] Total vehicles from files: 1781
+[22:42:40] Reading File: blank
+[22:42:40] Reading File: properties/houses.txt
+[22:42:40] Reading File: properties/businesses.txt
+[22:42:40] Reading File: properties/banks.txt
+[22:42:40] Reading File: properties/police.txt
+[22:42:40] 
+---------------------------------------
+[22:42:40] Running Grand Larceny - by the SA-MP team
+
+[22:42:40] ---------------------------------------
+
+[22:42:40] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:27:42] filterscripts = ""  (string)
+[23:27:42] 
+[23:27:42] Server Plugins
+[23:27:42] --------------
+[23:27:42]  Loading plugin: crashdetect.so
+[23:27:42]   CrashDetect v4.15.1 is OK.
+[23:27:42]   Loaded.
+[23:27:42]  Loading plugin: mysql.so
+[23:27:42]   Failed (libmysqlclient.so.18: cannot open shared object file: No such file or directory)
+[23:27:42]  Loading plugin: streamer.so
+[23:27:42] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[23:27:42]   Loaded.
+[23:27:42]  Loading plugin: sscanf.so
+[23:27:42] 
+
+[23:27:42]  ===============================
+
+[23:27:42]       sscanf plugin loaded.     
+
+[23:27:42]          Version:  2.8.1        
+
+[23:27:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:27:42]  ===============================
+
+[23:27:42]   Loaded.
+[23:27:42]  Loading plugin: Whirlpool.so
+[23:27:42]  
+[23:27:42]  ==================
+[23:27:42]  
+[23:27:42]   Whirlpool loaded
+[23:27:42]  
+[23:27:42]  ==================
+[23:27:42]  
+[23:27:42]   Loaded.
+[23:27:42]  Loading plugin: dc_cmd.so
+[23:27:42]   Daniel's CMD plugin v2.8
+[23:27:42]     (c) 2014 Daniel_Cortez
+[23:27:42] 	www.pro-pawn.ru
+[23:27:42]   Loaded.
+[23:27:42]  Loading plugin: CRP.so
+[23:27:42]   Failed (plugins/CRP.so: cannot open shared object file: No such file or directory)
+[23:27:42]  Loading plugin: TOTP.so
+[23:27:42] TOTP plugin v1.0.0 by Games loaded.
+[23:27:42]   Loaded.
+[23:27:42]  Loaded 6 plugins.
+
+[23:27:42] 
+[23:27:42] Filterscripts
+[23:27:42] ---------------
+[23:27:42]   Loaded 0 filterscripts.
+
+[23:27:43] [debug] Run time error 19: "File or function is not found"
+[23:27:43] [debug]  mysql_format
+[23:27:43] [debug]  mysql_tquery
+[23:27:43] [debug]  mysql_connect
+[23:27:43] [debug]  mysql_log
+[23:27:43] [debug]  mysql_errno
+[23:27:43] [debug]  mysql_set_charset
+[23:27:43] [debug]  mysql_query
+[23:27:43] [debug]  mysql_get_charset
+[23:27:43] [debug]  mysql_close
+[23:27:43] [debug]  cache_insert_id
+[23:27:43] [debug]  cache_get_row_count
+[23:27:43] [debug]  cache_get_field_content
+[23:27:43] [debug]  cache_get_field_content_int
+[23:27:43] [debug]  cache_get_field_content_float
+[23:27:43] [debug]  cache_get_row_int
+[23:27:43] [debug]  cache_get_row
+[23:27:43] [debug]  cache_get_row_float
+[23:27:43] [debug]  cache_get_data
+[23:27:43] [debug]  cache_affected_rows
+[23:27:43] [debug] Run time error 19: "File or function is not found"
+[23:27:43] [debug]  mysql_format
+[23:27:43] [debug]  mysql_tquery
+[23:27:43] [debug]  mysql_connect
+[23:27:43] [debug]  mysql_log
+[23:27:43] [debug]  mysql_errno
+[23:27:43] [debug]  mysql_set_charset
+[23:27:43] [debug]  mysql_query
+[23:27:43] [debug]  mysql_get_charset
+[23:27:43] [debug]  mysql_close
+[23:27:43] [debug]  cache_insert_id
+[23:27:43] [debug]  cache_get_row_count
+[23:27:43] [debug]  cache_get_field_content
+[23:27:43] [debug]  cache_get_field_content_int
+[23:27:43] [debug]  cache_get_field_content_float
+[23:27:43] [debug]  cache_get_row_int
+[23:27:43] [debug]  cache_get_row
+[23:27:43] [debug]  cache_get_row_float
+[23:27:43] [debug]  cache_get_data
+[23:27:43] [debug]  cache_affected_rows
+[23:27:43] Script[gamemodes/sarp.amx]: Run time error 19: "File or function is not found"
+[23:27:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:28:11] filterscripts = ""  (string)
+[23:28:11] 
+[23:28:11] Server Plugins
+[23:28:11] --------------
+[23:28:11]  Loading plugin: crashdetect.so
+[23:28:11]   CrashDetect v4.15.1 is OK.
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: mysql_static.so
+[23:28:11]  >> plugin.mysql: R39-6 successfully loaded.
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: streamer.so
+[23:28:11] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: sscanf.so
+[23:28:11] 
+
+[23:28:11]  ===============================
+
+[23:28:11]       sscanf plugin loaded.     
+
+[23:28:11]          Version:  2.8.1        
+
+[23:28:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:28:11]  ===============================
+
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: Whirlpool.so
+[23:28:11]  
+[23:28:11]  ==================
+[23:28:11]  
+[23:28:11]   Whirlpool loaded
+[23:28:11]  
+[23:28:11]  ==================
+[23:28:11]  
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: dc_cmd.so
+[23:28:11]   Daniel's CMD plugin v2.8
+[23:28:11]     (c) 2014 Daniel_Cortez
+[23:28:11] 	www.pro-pawn.ru
+[23:28:11]   Loaded.
+[23:28:11]  Loading plugin: CRP.so
+[23:28:11]   Failed (plugins/CRP.so: cannot open shared object file: No such file or directory)
+[23:28:11]  Loading plugin: TOTP.so
+[23:28:11] TOTP plugin v1.0.0 by Games loaded.
+[23:28:11]   Loaded.
+[23:28:11]  Loaded 7 plugins.
+
+[23:28:11] 
+[23:28:11] Filterscripts
+[23:28:11] ---------------
+[23:28:11]   Loaded 0 filterscripts.
+
+[23:28:12]  
+[23:28:12]  
+[23:28:12]  
+[23:28:12]  ======================================= 
+[23:28:12]  |                                     | 
+[23:28:12]  |        YSI version 3.09.0684        | 
+[23:28:12]  |        By Alex "Y_Less" Cole        | 
+[23:28:12]  |                                     | 
+[23:28:12]  ======================================= 
+[23:28:12]  
+[23:28:12]   Filterscript 'objects.amx' load failed.
+[23:28:12]   Filterscript 'ls_beachside.amx' load failed.
+[23:28:12] Conectat la localhost cu utilizatorul lvrpu
+[23:28:12] ?????????: cp1251
+[23:28:12] 
+*****************************************
+[23:28:12]  Los Santos Life Version - 0.9.1
+[23:28:12]  Last Update game version - 05.09.2019
+[23:28:12] *******************************************
+
+[23:28:12] Number of vehicle models: 0
+[23:28:12] <|| error: Table 'lvrp.donate' doesn't exist | callback:  | query: DELETE FROM `donate` WHERE `status`='0' AND `dateDelete` > 1579296492 ||>
+[23:28:12] <|| error: Table 'lvrp.towers' doesn't exist | callback: LoadDynamicTowers | query: SELECT * FROM `towers` ||>
+[23:28:12] <|| error: Table 'lvrp.garage' doesn't exist | callback: LoadDynamicGarage | query: SELECT *, (SELECT name FROM users WHERE id = garage.owner) as ownername FROM `garage` ||>
+[23:28:12] <|| error: Table 'lvrp.labels' doesn't exist | callback: LoadDynamicLabels | query: SELECT * FROM `labels` ||>
+[23:28:12] <|| error: Table 'lvrp.entrance' doesn't exist | callback: LoadDynamicEntrance | query: SELECT * FROM `entrance` ||>
+[23:28:12] <|| error: Table 'lvrp.gates' doesn't exist | callback: LoadDynamicGates | query: SELECT * FROM `gates` ||>
+[23:28:12] <|| error: Table 'lvrp.atms' doesn't exist | callback: LoadDynamicATMS | query: SELECT * FROM `atms` ||>
+[23:28:12] <|| error: Table 'lvrp.ateles' doesn't exist | callback: LoadDynamicTeles | query: SELECT * FROM `ateles` ||>
+[23:28:12] <|| error: Table 'lvrp.objects' doesn't exist | callback: LoadDynamicObjects | query: SELECT * FROM `objects` ||>
+[23:28:12] <|| error: Table 'lvrp.cctvs' doesn't exist | callback: LoadDynamicCCTV | query: SELECT * FROM `cctvs` ||>
+[23:28:12] <|| error: Table 'lvrp.cars' doesn't exist | callback: LoadDynamicCars | query: SELECT * FROM `cars` WHERE `owner` = '0' ||>
+[23:28:12] <|| error: Table 'lvrp.houses' doesn't exist | callback: LoadDynamicHouses | query: SELECT *, (SELECT name FROM users WHERE id = houses.owner) as ownername, (SELECT last_login FROM users WHERE id = houses.owner) as lastlogin FROM `houses` ||>
+[23:28:12] <|| error: Table 'lvrp.apartment' doesn't exist | callback: LoadDynamicApartment | query: SELECT * FROM `apartment` ||>
+[23:28:12] <|| error: Table 'lvrp.business' doesn't exist | callback: LoadDynamicBiz | query: SELECT *, (SELECT name FROM users WHERE id = business.owner) as ownername, (SELECT last_login FROM users WHERE id = business.owner) as lastlogin FROM `business` ||>
+[23:28:12] <|| error: Table 'lvrp.foodstand' doesn't exist | callback: LoadDynamicStands | query: SELECT * FROM `foodstand` ||>
+[23:28:12] <|| error: Table 'lvrp.apbs' doesn't exist | callback: LoadDynamicAPB | query: SELECT * FROM `apbs` ||>
+[23:28:12] <|| error: Table 'lvrp.factions' doesn't exist | callback: LoadDynamicFactions | query: SELECT * FROM `factions` ORDER BY `factionid` ||>
+[23:28:12] <|| error: Table 'lvrp.jobs' doesn't exist | callback: LoadDynamicJobs | query: SELECT * FROM `jobs` ORDER BY `jobid` ||>
+[23:28:12] <|| error: Table 'lvrp.radios' doesn't exist | callback: LoadDynamicRadios | query: SELECT * FROM `radios` ||>
+[23:28:12] <|| error: Table 'lvrp.plants' doesn't exist | callback: LoadDynamicPlants | query: SELECT * FROM `plants` ||>
+[23:28:12] <|| error: Table 'lvrp.truck_cargo' doesn't exist | callback: LoadDynamicTruckCargo | query: SELECT * FROM `truck_cargo` ||>
+[23:28:12] <|| error: Table 'lvrp.payphones' doesn't exist | callback: LoadDynamicPayphone | query: SELECT * FROM `payphones` ||>
+[23:28:12] <|| error: Table 'lvrp.logs_exit' doesn't exist | callback: OnLogsExitInsert | query: INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:28:12') ||>
+[23:31:12] --- Server Shutting Down.
+[23:31:13] --- Server Shutting Down.
+[23:31:13]   Filterscript 'objects.amx' unload failed.
+[23:31:13]   Filterscript 'ls_beachside.amx' unload failed.
+[23:31:13] plugin.mysql: Unloading plugin...
+[23:31:13] plugin.mysql: Plugin unloaded.
+[23:31:13] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[23:31:13] 
+
+[23:31:13]  ===============================
+
+[23:31:13]      sscanf plugin unloaded.    
+
+[23:31:13]  ===============================
+
+[23:31:13]  
+[23:31:13]  ====================
+[23:31:13]  
+[23:31:13]   Whirlpool unloaded
+[23:31:13]  
+[23:31:13]  ====================
+[23:31:13]  
+[23:31:13]   Daniel's CMD plugin got unloaded
+[23:31:13] TOTP plugin v1.0.0 by Games unloaded.
+[23:31:15] --- Server Shutting Down.
+[23:31:15] [debug] Run time error 19: "File or function is not found"
+[23:31:15] [debug]  mysql_format
+[23:31:15] [debug]  mysql_tquery
+[23:31:15] [debug]  mysql_connect
+[23:31:15] [debug]  mysql_log
+[23:31:15] [debug]  mysql_errno
+[23:31:15] [debug]  mysql_set_charset
+[23:31:15] [debug]  mysql_query
+[23:31:15] [debug]  mysql_get_charset
+[23:31:15] [debug]  mysql_close
+[23:31:15] [debug]  cache_insert_id
+[23:31:15] [debug]  cache_get_row_count
+[23:31:15] [debug]  cache_get_field_content
+[23:31:15] [debug]  cache_get_field_content_int
+[23:31:15] [debug]  cache_get_field_content_float
+[23:31:15] [debug]  cache_get_row_int
+[23:31:15] [debug]  cache_get_row
+[23:31:15] [debug]  cache_get_row_float
+[23:31:15] [debug]  cache_get_data
+[23:31:15] [debug]  cache_affected_rows
+[23:31:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[23:31:15] 
+
+[23:31:15]  ===============================
+
+[23:31:15]      sscanf plugin unloaded.    
+
+[23:31:15]  ===============================
+
+[23:31:15]  
+[23:31:15]  ====================
+[23:31:15]  
+[23:31:15]   Whirlpool unloaded
+[23:31:15]  
+[23:31:15]  ====================
+[23:31:15]  
+[23:31:15]   Daniel's CMD plugin got unloaded
+[23:31:15] TOTP plugin v1.0.0 by Games unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:31:46] filterscripts = ""  (string)
+[23:31:46] 
+[23:31:46] Server Plugins
+[23:31:46] --------------
+[23:31:46]  Loading plugin: crashdetect.so
+[23:31:46]   CrashDetect v4.15.1 is OK.
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: mysql_static.so
+[23:31:46]  >> plugin.mysql: R39-6 successfully loaded.
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: streamer.so
+[23:31:46] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: sscanf.so
+[23:31:46] 
+
+[23:31:46]  ===============================
+
+[23:31:46]       sscanf plugin loaded.     
+
+[23:31:46]          Version:  2.8.1        
+
+[23:31:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:31:46]  ===============================
+
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: Whirlpool.so
+[23:31:46]  
+[23:31:46]  ==================
+[23:31:46]  
+[23:31:46]   Whirlpool loaded
+[23:31:46]  
+[23:31:46]  ==================
+[23:31:46]  
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: dc_cmd.so
+[23:31:46]   Daniel's CMD plugin v2.8
+[23:31:46]     (c) 2014 Daniel_Cortez
+[23:31:46] 	www.pro-pawn.ru
+[23:31:46]   Loaded.
+[23:31:46]  Loading plugin: CRP.so
+[23:31:46]   Failed (plugins/CRP.so: cannot open shared object file: No such file or directory)
+[23:31:46]  Loading plugin: TOTP.so
+[23:31:46] TOTP plugin v1.0.0 by Games loaded.
+[23:31:46]   Loaded.
+[23:31:46]  Loaded 7 plugins.
+
+[23:31:46] 
+[23:31:46] Filterscripts
+[23:31:46] ---------------
+[23:31:46]   Loaded 0 filterscripts.
+
+[23:31:47]  
+[23:31:47]  
+[23:31:47]  
+[23:31:47]  ======================================= 
+[23:31:47]  |                                     | 
+[23:31:47]  |        YSI version 3.09.0684        | 
+[23:31:47]  |        By Alex "Y_Less" Cole        | 
+[23:31:47]  |                                     | 
+[23:31:47]  ======================================= 
+[23:31:47]  
+[23:31:47]   Filterscript 'objects.amx' load failed.
+[23:31:47]   Filterscript 'ls_beachside.amx' load failed.
+[23:31:47] Conectat la localhost cu utilizatorul lvrpu
+[23:31:47] ?????????: cp1251
+[23:31:47] 
+*****************************************
+[23:31:47]  Los Santos Life Version - 0.9.1
+[23:31:47]  Last Update game version - 05.09.2019
+[23:31:47] *******************************************
+
+[23:31:47] Number of vehicle models: 0
+[23:31:47] <|| error: Table 'lvrp.donate' doesn't exist | callback:  | query: DELETE FROM `donate` WHERE `status`='0' AND `dateDelete` > 1579296707 ||>
+[23:31:47] <|| error: Table 'lvrp.towers' doesn't exist | callback: LoadDynamicTowers | query: SELECT * FROM `towers` ||>
+[23:31:47] <|| error: Table 'lvrp.garage' doesn't exist | callback: LoadDynamicGarage | query: SELECT *, (SELECT name FROM users WHERE id = garage.owner) as ownername FROM `garage` ||>
+[23:31:47] <|| error: Table 'lvrp.labels' doesn't exist | callback: LoadDynamicLabels | query: SELECT * FROM `labels` ||>
+[23:31:47] <|| error: Table 'lvrp.entrance' doesn't exist | callback: LoadDynamicEntrance | query: SELECT * FROM `entrance` ||>
+[23:31:47] <|| error: Table 'lvrp.gates' doesn't exist | callback: LoadDynamicGates | query: SELECT * FROM `gates` ||>
+[23:31:47] <|| error: Table 'lvrp.atms' doesn't exist | callback: LoadDynamicATMS | query: SELECT * FROM `atms` ||>
+[23:31:47] <|| error: Table 'lvrp.ateles' doesn't exist | callback: LoadDynamicTeles | query: SELECT * FROM `ateles` ||>
+[23:31:47] <|| error: Table 'lvrp.objects' doesn't exist | callback: LoadDynamicObjects | query: SELECT * FROM `objects` ||>
+[23:31:47] <|| error: Table 'lvrp.cctvs' doesn't exist | callback: LoadDynamicCCTV | query: SELECT * FROM `cctvs` ||>
+[23:31:47] <|| error: Table 'lvrp.cars' doesn't exist | callback: LoadDynamicCars | query: SELECT * FROM `cars` WHERE `owner` = '0' ||>
+[23:31:47] <|| error: Table 'lvrp.houses' doesn't exist | callback: LoadDynamicHouses | query: SELECT *, (SELECT name FROM users WHERE id = houses.owner) as ownername, (SELECT last_login FROM users WHERE id = houses.owner) as lastlogin FROM `houses` ||>
+[23:31:47] <|| error: Table 'lvrp.apartment' doesn't exist | callback: LoadDynamicApartment | query: SELECT * FROM `apartment` ||>
+[23:31:47] <|| error: Table 'lvrp.business' doesn't exist | callback: LoadDynamicBiz | query: SELECT *, (SELECT name FROM users WHERE id = business.owner) as ownername, (SELECT last_login FROM users WHERE id = business.owner) as lastlogin FROM `business` ||>
+[23:31:47] <|| error: Table 'lvrp.foodstand' doesn't exist | callback: LoadDynamicStands | query: SELECT * FROM `foodstand` ||>
+[23:31:47] <|| error: Table 'lvrp.apbs' doesn't exist | callback: LoadDynamicAPB | query: SELECT * FROM `apbs` ||>
+[23:31:47] <|| error: Table 'lvrp.factions' doesn't exist | callback: LoadDynamicFactions | query: SELECT * FROM `factions` ORDER BY `factionid` ||>
+[23:31:47] <|| error: Table 'lvrp.jobs' doesn't exist | callback: LoadDynamicJobs | query: SELECT * FROM `jobs` ORDER BY `jobid` ||>
+[23:31:47] <|| error: Table 'lvrp.radios' doesn't exist | callback: LoadDynamicRadios | query: SELECT * FROM `radios` ||>
+[23:31:47] <|| error: Table 'lvrp.plants' doesn't exist | callback: LoadDynamicPlants | query: SELECT * FROM `plants` ||>
+[23:31:47] <|| error: Table 'lvrp.truck_cargo' doesn't exist | callback: LoadDynamicTruckCargo | query: SELECT * FROM `truck_cargo` ||>
+[23:31:47] <|| error: Table 'lvrp.payphones' doesn't exist | callback: LoadDynamicPayphone | query: SELECT * FROM `payphones` ||>
+[23:31:47] <|| error: Table 'lvrp.logs_exit' doesn't exist | callback: OnLogsExitInsert | query: INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:31:47') ||>
+[23:32:58] [connection] incoming connection: 86.127.208.170:50996 id: 0
+[23:32:58] [join] AndreiAdv has joined the server (0:86.127.208.170)
+[23:33:00] <|| error: Table 'lvrp.accounts' doesn't exist | callback: OnAccountCheck | query: SELECT accounts.login, accounts.id, accounts.last_game_ip, accounts.google_auth FROM `accounts`, `users` WHERE (accounts.login = 'AndreiAdv' OR users.name = 'AndreiAdv') AND accounts.id = users.accountid ||>
+[23:35:39] [debug] Server received interrupt signal
+[23:35:39] [debug] Native backtrace:
+[23:35:39] [debug] #0 f7abae8b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[23:35:39] [debug] #1 f7ab3bcf in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[23:35:39] [debug] #2 f7ab4dbc in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[23:35:39] [debug] #3 f7ab5176 in _ZN11CrashDetect11OnInterruptEPv () from plugins/crashdetect.so
+[23:35:39] [debug] #4 f7abaa7c in ?? () from plugins/crashdetect.so
+[23:35:39] [debug] #5 f7f96020 in __kernel_rt_sigreturn () from linux-gate.so.1
+[23:35:39] [debug] #6 f7f95ff9 in __kernel_vsyscall () from linux-gate.so.1
+[23:35:39] [debug] #7 f7b9d1cb in nanosleep () from /lib/i386-linux-gnu/libc.so.6
+[23:35:39] [debug] #8 f7bcfbe1 in usleep () from /lib/i386-linux-gnu/libc.so.6
+[23:35:39] [debug] #9 080b2dca in ?? () from ./samp03svr
+[23:35:39] [debug] #10 f7af6e81 in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6
+[23:35:39] [debug] #11 0804b4e1 in ?? () from ./samp03svr
+[23:35:39] --- Server Shutting Down.
+[23:35:39]   Filterscript 'objects.amx' unload failed.
+[23:35:39]   Filterscript 'ls_beachside.amx' unload failed.
+[23:35:39] [part] AndreiAdv has left the server (0:0)
+[23:35:39] plugin.mysql: Unloading plugin...
+[23:35:39] plugin.mysql: Plugin unloaded.
+[23:35:39] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[23:35:39] 
+
+[23:35:39]  ===============================
+
+[23:35:39]      sscanf plugin unloaded.    
+
+[23:35:39]  ===============================
+
+[23:35:39]  
+[23:35:39]  ====================
+[23:35:39]  
+[23:35:39]   Whirlpool unloaded
+[23:35:39]  
+[23:35:39]  ====================
+[23:35:39]  
+[23:35:39]   Daniel's CMD plugin got unloaded
+[23:35:39] TOTP plugin v1.0.0 by Games unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:36:23] filterscripts = ""  (string)
+[23:36:23] 
+[23:36:23] Server Plugins
+[23:36:23] --------------
+[23:36:23]  Loading plugin: crashdetect.so
+[23:36:23]   CrashDetect v4.15.1 is OK.
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: mysql_static.so
+[23:36:23]  >> plugin.mysql: R39-6 successfully loaded.
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: streamer.so
+[23:36:23] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: sscanf.so
+[23:36:23] 
+
+[23:36:23]  ===============================
+
+[23:36:23]       sscanf plugin loaded.     
+
+[23:36:23]          Version:  2.8.1        
+
+[23:36:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:36:23]  ===============================
+
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: Whirlpool.so
+[23:36:23]  
+[23:36:23]  ==================
+[23:36:23]  
+[23:36:23]   Whirlpool loaded
+[23:36:23]  
+[23:36:23]  ==================
+[23:36:23]  
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: dc_cmd.so
+[23:36:23]   Daniel's CMD plugin v2.8
+[23:36:23]     (c) 2014 Daniel_Cortez
+[23:36:23] 	www.pro-pawn.ru
+[23:36:23]   Loaded.
+[23:36:23]  Loading plugin: CRP.so
+[23:36:23]   Failed (plugins/CRP.so: cannot open shared object file: No such file or directory)
+[23:36:23]  Loading plugin: TOTP.so
+[23:36:23] TOTP plugin v1.0.0 by Games loaded.
+[23:36:23]   Loaded.
+[23:36:23]  Loaded 7 plugins.
+
+[23:36:23] 
+[23:36:23] Filterscripts
+[23:36:23] ---------------
+[23:36:23]   Loaded 0 filterscripts.
+
+[23:36:24]  
+[23:36:24]  
+[23:36:24]  
+[23:36:24]  ======================================= 
+[23:36:24]  |                                     | 
+[23:36:24]  |        YSI version 3.09.0684        | 
+[23:36:24]  |        By Alex "Y_Less" Cole        | 
+[23:36:24]  |                                     | 
+[23:36:24]  ======================================= 
+[23:36:24]  
+[23:36:24]   Filterscript 'objects.amx' load failed.
+[23:36:24]   Filterscript 'ls_beachside.amx' load failed.
+[23:36:24] Conectat la localhost cu utilizatorul lvrpu
+[23:36:24] ?????????: cp1251
+[23:36:24] 
+*****************************************
+[23:36:24]  Los Santos Life Version - 0.9.1
+[23:36:24]  Last Update game version - 05.09.2019
+[23:36:24] *******************************************
+
+[23:36:24] Number of vehicle models: 0
+[23:36:24] [Towers] Строк - 44. Загружено - 44. Затрачено: 0 ms.
+[23:36:24] [Garage] Строк - 1. Загружено - 1. Затрачено: 0 ms.
+[23:36:24] [Labels] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[23:36:24] [Entrance] Строк - 34. Загружено - 34. Затрачено: 1 ms.
+[23:36:24] [Gates] Строк - 52. Загружено - 52. Затрачено: 1 ms.
+[23:36:24] [ATM] Строк - 20. Загружено - 20. Затрачено: 0 ms.
+[23:36:24] [Teles] Строк - 179. Загружено - 179. Затрачено: 1 ms.
+[23:36:24] [Objects] Строк - 177. Загружено - 177. Затрачено: 3 ms.
+[23:36:24] [CCTV] Записи не найдены.
+[23:36:24] [Cars] Строк - 284. Загружено - 284. Затрачено: 15 ms.
+[23:36:24] [Houses] Строк - 1596. Загружено - 1596. Затрачено: 104 ms.
+[23:36:24] [Apartments] Строк - 54. Загружено - 54. Затрачено: 0 ms.
+[23:36:24] [Biz] Строк - 154. Загружено - 154. Затрачено: 5 ms.
+[23:36:24] [FoodStand] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[23:36:24] [APBS] Записи не найдены.
+[23:36:24] [Factions] Строк - 9. Загружено - 9. Затрачено: 1 ms.
+[23:36:24] [Jobs] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[23:36:24] [Radio] Записи не найдены.
+[23:36:24] [Plante] Nu s-au gasit rezultate.
+[23:36:24] [Truck Cargo] Строк - 60. Загружено - 60. Затрачено: 1 ms.
+[23:36:24] <|| error: Table 'lvrp.payphones' doesn't exist | callback: LoadDynamicPayphone | query: SELECT * FROM `payphones` ||>
+[23:36:24] <|| error: Field 'reason_0' doesn't have a default value | callback: OnLogsExitInsert | query: INSERT INTO `logs_exit` (`date`) VALUES ('17/01/2020, 23:36:24') ||>
+[23:37:00] [connection] incoming connection: 86.127.208.170:57510 id: 0
+[23:37:00] [join] AndreiAdv has joined the server (0:86.127.208.170)
+[23:37:08] [nick] AndreiAdv nick changed to Andrei_Dev
+[23:39:48] [connection] incoming connection: 86.121.12.44:54040 id: 1
+[23:39:48] [join] MrBloo has joined the server (1:86.121.12.44)
+[23:40:00] [nick] MrBloo nick changed to Bloo_Test
+[23:40:30] [chat] [Bloo_Test]: sugi pula
+[23:41:05] [chat] [Andrei_Dev]: ./meal order
+[23:44:00] [chat] [Andrei_Dev]: ./policer
+[23:46:23] [part] Bloo_Test has left the server (1:1)
+[00:08:34] [part] Andrei_Dev has left the server (0:0)
+[05:01:06] [GMX] Un restart a fost programat. Data: 18/01/2020
+[05:01:06]   Filterscript 'objects.amx' unload failed.
+[05:01:06]   Filterscript 'ls_beachside.amx' unload failed.
+[05:01:18]  
+[05:01:18]  
+[05:01:18]  
+[05:01:18]  ======================================= 
+[05:01:18]  |                                     | 
+[05:01:18]  |        YSI version 3.09.0684        | 
+[05:01:18]  |        By Alex "Y_Less" Cole        | 
+[05:01:18]  |                                     | 
+[05:01:18]  ======================================= 
+[05:01:18]  
+[05:01:18]   Filterscript 'objects.amx' load failed.
+[05:01:18]   Filterscript 'ls_beachside.amx' load failed.
+[05:01:18] Conectat la localhost cu utilizatorul lvrpu
+[05:01:18] ?????????: cp1251
+[05:01:18] 
+*****************************************
+[05:01:18]  Los Santos Life Version - 0.9.1
+[05:01:18]  Last Update game version - 05.09.2019
+[05:01:18] *******************************************
+
+[05:01:18] Number of vehicle models: 0
+[05:01:18] [Towers] Строк - 44. Загружено - 44. Затрачено: 0 ms.
+[05:01:18] [Garage] Строк - 1. Загружено - 1. Затрачено: 1 ms.
+[05:01:18] [Labels] Строк - 50. Загружено - 50. Затрачено: 0 ms.
+[05:01:18] [Entrance] Строк - 34. Загружено - 34. Затрачено: 1 ms.
+[05:01:18] [Gates] Строк - 52. Загружено - 52. Затрачено: 1 ms.
+[05:01:18] [ATM] Строк - 20. Загружено - 20. Затрачено: 0 ms.
+[05:01:18] [Teles] Строк - 179. Загружено - 179. Затрачено: 1 ms.
+[05:01:18] [Objects] Строк - 177. Загружено - 177. Затрачено: 2 ms.
+[05:01:18] [CCTV] Записи не найдены.
+[05:01:18] [Cars] Строк - 284. Загружено - 284. Затрачено: 17 ms.
+[05:01:18] [Houses] Строк - 1596. Загружено - 1596. Затрачено: 108 ms.
+[05:01:18] [Apartments] Строк - 54. Загружено - 54. Затрачено: 1 ms.
+[05:01:18] [Biz] Строк - 154. Загружено - 154. Затрачено: 5 ms.
+[05:01:18] [FoodStand] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[05:01:18] [APBS] Записи не найдены.
+[05:01:18] [Factions] Строк - 9. Загружено - 9. Затрачено: 0 ms.
+[05:01:18] [Jobs] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[05:01:18] [Radio] Записи не найдены.
+[05:01:18] [Plante] Nu s-au gasit rezultate.
+[05:01:18] [Truck Cargo] Строк - 60. Загружено - 60. Затрачено: 1 ms.
+[05:01:18] <|| error: Table 'lvrp.payphones' doesn't exist | callback: LoadDynamicPayphone | query: SELECT * FROM `payphones` ||>
+[05:01:18] <|| error: Field 'reason_0' doesn't have a default value | callback: OnLogsExitInsert | query: INSERT INTO `logs_exit` (`date`) VALUES ('18/01/2020, 05:01:18') ||>
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[15:57:15] filterscripts = ""  (string)
+[15:57:15] 
+[15:57:15] Server Plugins
+[15:57:15] --------------
+[15:57:15]  Loading plugin: crashdetect.so
+[15:57:15]   CrashDetect v4.15.1 is OK.
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: mysql_static.so
+[15:57:15]  >> plugin.mysql: R39-6 successfully loaded.
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: streamer.so
+[15:57:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: sscanf.so
+[15:57:15] 
+
+[15:57:15]  ===============================
+
+[15:57:15]       sscanf plugin loaded.     
+
+[15:57:15]          Version:  2.8.1        
+
+[15:57:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:57:15]  ===============================
+
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: Whirlpool.so
+[15:57:15]  
+[15:57:15]  ==================
+[15:57:15]  
+[15:57:15]   Whirlpool loaded
+[15:57:15]  
+[15:57:15]  ==================
+[15:57:15]  
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: dc_cmd.so
+[15:57:15]   Daniel's CMD plugin v2.8
+[15:57:15]     (c) 2014 Daniel_Cortez
+[15:57:15] 	www.pro-pawn.ru
+[15:57:15]   Loaded.
+[15:57:15]  Loading plugin: CRP.so
+[15:57:15]   Failed (plugins/CRP.so: cannot open shared object file: No such file or directory)
+[15:57:15]  Loading plugin: TOTP.so
+[15:57:15] TOTP plugin v1.0.0 by Games loaded.
+[15:57:15]   Loaded.
+[15:57:15]  Loaded 7 plugins.
+
+[15:57:15] 
+[15:57:15] Filterscripts
+[15:57:15] ---------------
+[15:57:15]   Loaded 0 filterscripts.
+
+[15:57:16]  
+[15:57:16]  
+[15:57:16]  
+[15:57:16]  ======================================= 
+[15:57:16]  |                                     | 
+[15:57:16]  |        YSI version 3.09.0684        | 
+[15:57:16]  |        By Alex "Y_Less" Cole        | 
+[15:57:16]  |                                     | 
+[15:57:16]  ======================================= 
+[15:57:16]  
+[15:57:16]   Filterscript 'objects.amx' load failed.
+[15:57:16]   Filterscript 'ls_beachside.amx' load failed.
+[15:57:16] Conectat la localhost cu utilizatorul lvrpu
+[15:57:16] ?????????: cp1251
+[15:57:16] 
+*****************************************
+[15:57:16]  Los Santos Life Version - 0.9.1
+[15:57:16]  Last Update game version - 05.09.2019
+[15:57:16] *******************************************
+
+[15:57:16] Number of vehicle models: 0
+[15:57:16] [Towers] Строк - 44. Загружено - 44. Затрачено: 1 ms.
+[15:57:16] [Garage] Строк - 1. Загружено - 1. Затрачено: 0 ms.
+[15:57:16] [Labels] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[15:57:16] [Entrance] Строк - 34. Загружено - 34. Затрачено: 0 ms.
+[15:57:16] [Gates] Строк - 52. Загружено - 52. Затрачено: 1 ms.
+[15:57:16] [ATM] Строк - 20. Загружено - 20. Затрачено: 0 ms.
+[15:57:16] [Teles] Строк - 179. Загружено - 179. Затрачено: 0 ms.
+[15:57:16] [Objects] Строк - 177. Загружено - 177. Затрачено: 3 ms.
+[15:57:16] [CCTV] Записи не найдены.
+[15:57:16] [Cars] Строк - 284. Загружено - 284. Затрачено: 15 ms.
+[15:57:16] [Houses] Строк - 1596. Загружено - 1596. Затрачено: 108 ms.
+[15:57:16] [Apartments] Строк - 54. Загружено - 54. Затрачено: 1 ms.
+[15:57:16] [Biz] Строк - 154. Загружено - 154. Затрачено: 5 ms.
+[15:57:16] [FoodStand] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[15:57:16] [APBS] Записи не найдены.
+[15:57:16] [Factions] Строк - 9. Загружено - 9. Затрачено: 0 ms.
+[15:57:16] [Jobs] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[15:57:16] [Radio] Записи не найдены.
+[15:57:16] [Plante] Nu s-au gasit rezultate.
+[15:57:16] [Truck Cargo] Строк - 60. Загружено - 60. Затрачено: 2 ms.
+[15:57:16] <|| error: Table 'lvrp.payphones' doesn't exist | callback: LoadDynamicPayphone | query: SELECT * FROM `payphones` ||>
+[15:57:16] <|| error: Field 'reason_0' doesn't have a default value | callback: OnLogsExitInsert | query: INSERT INTO `logs_exit` (`date`) VALUES ('18/01/2020, 15:57:16') ||>
